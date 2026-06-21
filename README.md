@@ -1,4 +1,4 @@
-# projeto1-ceaps# Cota Parlamentar do Senado (CEAPS) — Análise Exploratória
+# Cota Parlamentar do Senado (CEAPS) — Análise Exploratória
 
 > Como os senadores usam o reembolso da cota parlamentar entre 2019 e 2022, a partir dos dados abertos do Senado Federal.
 
@@ -61,7 +61,6 @@ Este repositório é publicado em versões, commit a commit, em vez de uma entre
 - **Próximo — estatística descritiva:** média vs mediana do gasto por lançamento (distribuição assimétrica), percentis.
 - **Próximo — inferência:** teste de hipótese entre tipos de despesa.
 - **Próximo — sazonalidade multi-anos:** verificar se os picos mensais de 2022 se repetem em 2019–2021.
-- **Próximo — SQL (DuckDB):** reproduzir os principais agrupamentos em SQL ao lado do pandas.
 
 ## Autor
 
