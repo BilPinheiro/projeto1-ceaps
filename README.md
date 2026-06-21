@@ -1,7 +1,18 @@
 # Cota Parlamentar do Senado (CEAPS) — Análise Exploratória
 
+![status](https://img.shields.io/badge/status-em%20andamento-yellow)
+
 > Como os senadores usam o reembolso da cota parlamentar entre 2019 e 2022, a partir dos dados abertos do Senado Federal.
 
+## Status
+
+Projeto em andamento, publicado em etapas:
+
+- [x] EDA — distribuição por tipo/fornecedor, evolução temporal, qualidade de dado
+- [ ] Estatística descritiva — média vs mediana, percentis
+- [ ] Inferência — teste de hipótese entre tipos de despesa
+- [ ] Sazonalidade multi-anos
+      
 ## Pergunta de negócio
 
 Como estão distribuídos os gastos do reembolso da cota parlamentar (CEAPS) — por tipo de despesa, por fornecedor e ao longo do tempo — e o que isso revela sobre a composição e a qualidade desse dado público.
